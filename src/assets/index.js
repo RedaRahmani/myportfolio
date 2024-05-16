@@ -2,6 +2,8 @@ import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
+import arkx from "./arkx.png"
+import alx from "./alxa.png"
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -29,6 +31,15 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import yosobox from "./yosobox_logo.png"
+import esto from "./esto.jpeg"
+import odex from "./ODEX.png"
+import python from "./python.png"
+import C from "./C.png"
+import cpp from "./cpp.png"
+import pets from "./pets.jpg"
+import blog from "./blog.jpg"
+import weather from "./weather.jpeg"
 
 export {
   logo,
@@ -36,6 +47,16 @@ export {
   creator,
   mobile,
   web,
+  pets,
+  blog,
+  weather,
+  C,
+  cpp,
+  python,
+  odex,
+  esto,
+  yosobox,
+  alx,
   github,
   menu,
   close,
@@ -59,4 +80,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  arkx,
 };
